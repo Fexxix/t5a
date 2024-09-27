@@ -8,3 +8,5 @@ Once you have Node.js installed, you can run the app in development mode by cd'i
 npm i
 npm run dev
 ```
+
+The app will be running in development mode on port 5173 or https://localhost:5173
